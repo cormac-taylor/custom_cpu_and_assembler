@@ -1,5 +1,3 @@
-#Cormac Taylor
-#I pledge my honor that I have abided by the Stevens Honor System.
 def assembler(file):
     i = open(file,"r")
     o = open("out.txt","w")
